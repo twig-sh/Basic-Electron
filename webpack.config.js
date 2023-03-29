@@ -34,6 +34,6 @@ module.exports = {
     mode: 'production',
     output: {
         path: path.resolve(__dirname, 'hosted'),
-        filename: '[name]bundle.js',
+        filename: '[name]Bundle.js',
     },
 };
